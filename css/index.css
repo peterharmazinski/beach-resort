@@ -11,8 +11,7 @@ body, html {
 #background {
     height: 100vh;
     width: 100vw;
-    transition: all 3s;
-    background-image: url("../img/hero.jpg");
+    transition: all 5s;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
